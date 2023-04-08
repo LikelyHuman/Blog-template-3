@@ -8,4 +8,4 @@
 <b>rgba(81, 49, 157, 0.1) 89%)</b>
 <br><br>
 
-<h1 style="text-align: center">Low Opacity</h1>
+<h1 style="text-align: center">High Opacity</h1>
